@@ -19,3 +19,7 @@ okayBtn.addEventListener("click", () => {
     alert("Okay button clicked!");
     // You can add other actions here without closing the popup
 });
+
+function(){
+    alert("i Love you guys")
+}
